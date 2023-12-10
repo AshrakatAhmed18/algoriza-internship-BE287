@@ -1,0 +1,240 @@
+C:\Users\Omar\Desktop\Algoriza project\Vezeeta\Vezeeta\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Omar\Desktop\Algoriza project\Vezeeta\Vezeeta\bin\Debug\net6.0\appsettings.json
+C:\Users\Omar\Desktop\Algoriza project\Vezeeta\Vezeeta\bin\Debug\net6.0\Vezeeta.exe
+C:\Users\Omar\Desktop\Algoriza project\Vezeeta\Vezeeta\bin\Debug\net6.0\Vezeeta.deps.json
+C:\Users\Omar\Desktop\Algoriza project\Vezeeta\Vezeeta\bin\Debug\net6.0\Vezeeta.runtimeconfig.json
+C:\Users\Omar\Desktop\Algoriza project\Vezeeta\Vezeeta\bin\Debug\net6.0\Vezeeta.dll
+C:\Users\Omar\Desktop\Algoriza project\Vezeeta\Vezeeta\bin\Debug\net6.0\Vezeeta.pdb
+C:\Users\Omar\Desktop\Algoriza project\Vezeeta\Vezeeta\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Omar\Desktop\Algoriza project\Vezeeta\Vezeeta\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Omar\Desktop\Algoriza project\Vezeeta\Vezeeta\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Omar\Desktop\Algoriza project\Vezeeta\Vezeeta\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Omar\Desktop\Algoriza project\Vezeeta\Vezeeta\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Omar\Desktop\Algoriza project\Vezeeta\Vezeeta\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Omar\Desktop\Algoriza project\Vezeeta\Vezeeta\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Omar\Desktop\Algoriza project\Vezeeta\Vezeeta\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Omar\Desktop\Algoriza project\Vezeeta\Vezeeta\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Omar\Desktop\Algoriza project\Vezeeta\Vezeeta\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Omar\Desktop\Algoriza project\Vezeeta\Vezeeta\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Omar\Desktop\Algoriza project\Vezeeta\Vezeeta\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Omar\Desktop\Algoriza project\Vezeeta\Vezeeta\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Omar\Desktop\Algoriza project\Vezeeta\Vezeeta\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Omar\Desktop\Algoriza project\Vezeeta\Vezeeta\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Omar\Desktop\Algoriza project\Vezeeta\Vezeeta\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Omar\Desktop\Algoriza project\Vezeeta\Vezeeta\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Omar\Desktop\Algoriza project\Vezeeta\Vezeeta\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Omar\Desktop\Algoriza project\Vezeeta\Vezeeta\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Omar\Desktop\Algoriza project\Vezeeta\Vezeeta\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Omar\Desktop\Algoriza project\Vezeeta\Vezeeta\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Omar\Desktop\Algoriza project\Vezeeta\Vezeeta\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Omar\Desktop\Algoriza project\Vezeeta\Vezeeta\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Omar\Desktop\Algoriza project\Vezeeta\Vezeeta\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Omar\Desktop\Algoriza project\Vezeeta\Vezeeta\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Omar\Desktop\Algoriza project\Vezeeta\Vezeeta\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Omar\Desktop\Algoriza project\Vezeeta\Vezeeta\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Omar\Desktop\Algoriza project\Vezeeta\Vezeeta\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Omar\Desktop\Algoriza project\Vezeeta\Vezeeta\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Omar\Desktop\Algoriza project\Vezeeta\Vezeeta\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Omar\Desktop\Algoriza project\Vezeeta\Vezeeta\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Omar\Desktop\Algoriza project\Vezeeta\Vezeeta\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Omar\Desktop\Algoriza project\Vezeeta\Vezeeta\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Omar\Desktop\Algoriza project\Vezeeta\Vezeeta\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Omar\Desktop\Algoriza project\Vezeeta\Vezeeta\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Omar\Desktop\Algoriza project\Vezeeta\Vezeeta\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Omar\Desktop\Algoriza project\Vezeeta\Vezeeta\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Omar\Desktop\Algoriza project\Vezeeta\Vezeeta\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Omar\Desktop\Algoriza project\Vezeeta\Vezeeta\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Omar\Desktop\Algoriza project\Vezeeta\Vezeeta\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Omar\Desktop\Algoriza project\Vezeeta\Vezeeta\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Omar\Desktop\Algoriza project\Vezeeta\Vezeeta\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Omar\Desktop\Algoriza project\Vezeeta\Vezeeta\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Omar\Desktop\Algoriza project\Vezeeta\Vezeeta\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Omar\Desktop\Algoriza project\Vezeeta\Vezeeta\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Omar\Desktop\Algoriza project\Vezeeta\Vezeeta\bin\Debug\net6.0\RepositoryLayer.dll
+C:\Users\Omar\Desktop\Algoriza project\Vezeeta\Vezeeta\bin\Debug\net6.0\RepositoryLayer.pdb
+C:\Users\Omar\Desktop\Algoriza project\Vezeeta\Vezeeta\obj\Debug\net6.0\Vezeeta.csproj.AssemblyReference.cache
+C:\Users\Omar\Desktop\Algoriza project\Vezeeta\Vezeeta\obj\Debug\net6.0\Vezeeta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar\Desktop\Algoriza project\Vezeeta\Vezeeta\obj\Debug\net6.0\Vezeeta.AssemblyInfoInputs.cache
+C:\Users\Omar\Desktop\Algoriza project\Vezeeta\Vezeeta\obj\Debug\net6.0\Vezeeta.AssemblyInfo.cs
+C:\Users\Omar\Desktop\Algoriza project\Vezeeta\Vezeeta\obj\Debug\net6.0\Vezeeta.csproj.CoreCompileInputs.cache
+C:\Users\Omar\Desktop\Algoriza project\Vezeeta\Vezeeta\obj\Debug\net6.0\Vezeeta.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Omar\Desktop\Algoriza project\Vezeeta\Vezeeta\obj\Debug\net6.0\Vezeeta.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Omar\Desktop\Algoriza project\Vezeeta\Vezeeta\obj\Debug\net6.0\staticwebassets\msbuild.Vezeeta.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Omar\Desktop\Algoriza project\Vezeeta\Vezeeta\obj\Debug\net6.0\staticwebassets\msbuild.build.Vezeeta.props
+C:\Users\Omar\Desktop\Algoriza project\Vezeeta\Vezeeta\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Vezeeta.props
+C:\Users\Omar\Desktop\Algoriza project\Vezeeta\Vezeeta\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Vezeeta.props
+C:\Users\Omar\Desktop\Algoriza project\Vezeeta\Vezeeta\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Omar\Desktop\Algoriza project\Vezeeta\Vezeeta\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Omar\Desktop\Algoriza project\Vezeeta\Vezeeta\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Omar\Desktop\Algoriza project\Vezeeta\Vezeeta\obj\Debug\net6.0\scopedcss\bundle\Vezeeta.styles.css
+C:\Users\Omar\Desktop\Algoriza project\Vezeeta\Vezeeta\obj\Debug\net6.0\Vezeeta.csproj.CopyComplete
+C:\Users\Omar\Desktop\Algoriza project\Vezeeta\Vezeeta\obj\Debug\net6.0\Vezeeta.dll
+C:\Users\Omar\Desktop\Algoriza project\Vezeeta\Vezeeta\obj\Debug\net6.0\refint\Vezeeta.dll
+C:\Users\Omar\Desktop\Algoriza project\Vezeeta\Vezeeta\obj\Debug\net6.0\Vezeeta.pdb
+C:\Users\Omar\Desktop\Algoriza project\Vezeeta\Vezeeta\obj\Debug\net6.0\Vezeeta.genruntimeconfig.cache
+C:\Users\Omar\Desktop\Algoriza project\Vezeeta\Vezeeta\obj\Debug\net6.0\ref\Vezeeta.dll
+C:\Users\Omar\Desktop\Algoriza project\Vezeeta\Vezeeta\bin\Debug\net6.0\DomainLayer.dll
+C:\Users\Omar\Desktop\Algoriza project\Vezeeta\Vezeeta\bin\Debug\net6.0\DomainLayer.pdb
+C:\Users\Omar\Desktop\Algoriza project\Vezeeta\Vezeeta\bin\Debug\net6.0\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Omar\Desktop\Algoriza project\Vezeeta\Vezeeta\bin\Debug\net6.0\ServiceLayer.dll
+C:\Users\Omar\Desktop\Algoriza project\Vezeeta\Vezeeta\bin\Debug\net6.0\ServiceLayer.pdb
+E:\Algoriza-Internship-358-main (1)\Algoriza-Internship-358-main\Vezeeta\Vezeeta\bin\Debug\net6.0\appsettings.Development.json
+E:\Algoriza-Internship-358-main (1)\Algoriza-Internship-358-main\Vezeeta\Vezeeta\bin\Debug\net6.0\appsettings.json
+E:\Algoriza-Internship-358-main (1)\Algoriza-Internship-358-main\Vezeeta\Vezeeta\bin\Debug\net6.0\Vezeeta.exe
+E:\Algoriza-Internship-358-main (1)\Algoriza-Internship-358-main\Vezeeta\Vezeeta\bin\Debug\net6.0\Vezeeta.deps.json
+E:\Algoriza-Internship-358-main (1)\Algoriza-Internship-358-main\Vezeeta\Vezeeta\bin\Debug\net6.0\Vezeeta.runtimeconfig.json
+E:\Algoriza-Internship-358-main (1)\Algoriza-Internship-358-main\Vezeeta\Vezeeta\bin\Debug\net6.0\Vezeeta.dll
+E:\Algoriza-Internship-358-main (1)\Algoriza-Internship-358-main\Vezeeta\Vezeeta\bin\Debug\net6.0\Vezeeta.pdb
+E:\Algoriza-Internship-358-main (1)\Algoriza-Internship-358-main\Vezeeta\Vezeeta\bin\Debug\net6.0\Humanizer.dll
+E:\Algoriza-Internship-358-main (1)\Algoriza-Internship-358-main\Vezeeta\Vezeeta\bin\Debug\net6.0\Microsoft.AspNet.Identity.Core.dll
+E:\Algoriza-Internship-358-main (1)\Algoriza-Internship-358-main\Vezeeta\Vezeeta\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Algoriza-Internship-358-main (1)\Algoriza-Internship-358-main\Vezeeta\Vezeeta\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Algoriza-Internship-358-main (1)\Algoriza-Internship-358-main\Vezeeta\Vezeeta\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Algoriza-Internship-358-main (1)\Algoriza-Internship-358-main\Vezeeta\Vezeeta\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Algoriza-Internship-358-main (1)\Algoriza-Internship-358-main\Vezeeta\Vezeeta\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Algoriza-Internship-358-main (1)\Algoriza-Internship-358-main\Vezeeta\Vezeeta\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Algoriza-Internship-358-main (1)\Algoriza-Internship-358-main\Vezeeta\Vezeeta\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Algoriza-Internship-358-main (1)\Algoriza-Internship-358-main\Vezeeta\Vezeeta\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Algoriza-Internship-358-main (1)\Algoriza-Internship-358-main\Vezeeta\Vezeeta\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Algoriza-Internship-358-main (1)\Algoriza-Internship-358-main\Vezeeta\Vezeeta\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Algoriza-Internship-358-main (1)\Algoriza-Internship-358-main\Vezeeta\Vezeeta\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Algoriza-Internship-358-main (1)\Algoriza-Internship-358-main\Vezeeta\Vezeeta\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+E:\Algoriza-Internship-358-main (1)\Algoriza-Internship-358-main\Vezeeta\Vezeeta\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Algoriza-Internship-358-main (1)\Algoriza-Internship-358-main\Vezeeta\Vezeeta\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Algoriza-Internship-358-main (1)\Algoriza-Internship-358-main\Vezeeta\Vezeeta\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Algoriza-Internship-358-main (1)\Algoriza-Internship-358-main\Vezeeta\Vezeeta\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Algoriza-Internship-358-main (1)\Algoriza-Internship-358-main\Vezeeta\Vezeeta\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Algoriza-Internship-358-main (1)\Algoriza-Internship-358-main\Vezeeta\Vezeeta\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Algoriza-Internship-358-main (1)\Algoriza-Internship-358-main\Vezeeta\Vezeeta\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Algoriza-Internship-358-main (1)\Algoriza-Internship-358-main\Vezeeta\Vezeeta\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Algoriza-Internship-358-main (1)\Algoriza-Internship-358-main\Vezeeta\Vezeeta\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Algoriza-Internship-358-main (1)\Algoriza-Internship-358-main\Vezeeta\Vezeeta\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Algoriza-Internship-358-main (1)\Algoriza-Internship-358-main\Vezeeta\Vezeeta\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Algoriza-Internship-358-main (1)\Algoriza-Internship-358-main\Vezeeta\Vezeeta\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Algoriza-Internship-358-main (1)\Algoriza-Internship-358-main\Vezeeta\Vezeeta\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Algoriza-Internship-358-main (1)\Algoriza-Internship-358-main\Vezeeta\Vezeeta\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\Algoriza-Internship-358-main (1)\Algoriza-Internship-358-main\Vezeeta\Vezeeta\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Algoriza-Internship-358-main (1)\Algoriza-Internship-358-main\Vezeeta\Vezeeta\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Algoriza-Internship-358-main (1)\Algoriza-Internship-358-main\Vezeeta\Vezeeta\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Algoriza-Internship-358-main (1)\Algoriza-Internship-358-main\Vezeeta\Vezeeta\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Algoriza-Internship-358-main (1)\Algoriza-Internship-358-main\Vezeeta\Vezeeta\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Algoriza-Internship-358-main (1)\Algoriza-Internship-358-main\Vezeeta\Vezeeta\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Algoriza-Internship-358-main (1)\Algoriza-Internship-358-main\Vezeeta\Vezeeta\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Algoriza-Internship-358-main (1)\Algoriza-Internship-358-main\Vezeeta\Vezeeta\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Algoriza-Internship-358-main (1)\Algoriza-Internship-358-main\Vezeeta\Vezeeta\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Algoriza-Internship-358-main (1)\Algoriza-Internship-358-main\Vezeeta\Vezeeta\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Algoriza-Internship-358-main (1)\Algoriza-Internship-358-main\Vezeeta\Vezeeta\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Algoriza-Internship-358-main (1)\Algoriza-Internship-358-main\Vezeeta\Vezeeta\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Algoriza-Internship-358-main (1)\Algoriza-Internship-358-main\Vezeeta\Vezeeta\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Algoriza-Internship-358-main (1)\Algoriza-Internship-358-main\Vezeeta\Vezeeta\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Algoriza-Internship-358-main (1)\Algoriza-Internship-358-main\Vezeeta\Vezeeta\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Algoriza-Internship-358-main (1)\Algoriza-Internship-358-main\Vezeeta\Vezeeta\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Algoriza-Internship-358-main (1)\Algoriza-Internship-358-main\Vezeeta\Vezeeta\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Algoriza-Internship-358-main (1)\Algoriza-Internship-358-main\Vezeeta\Vezeeta\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Algoriza-Internship-358-main (1)\Algoriza-Internship-358-main\Vezeeta\Vezeeta\bin\Debug\net6.0\DomainLayer.dll
+E:\Algoriza-Internship-358-main (1)\Algoriza-Internship-358-main\Vezeeta\Vezeeta\bin\Debug\net6.0\RepositoryLayer.dll
+E:\Algoriza-Internship-358-main (1)\Algoriza-Internship-358-main\Vezeeta\Vezeeta\bin\Debug\net6.0\ServiceLayer.dll
+E:\Algoriza-Internship-358-main (1)\Algoriza-Internship-358-main\Vezeeta\Vezeeta\bin\Debug\net6.0\RepositoryLayer.pdb
+E:\Algoriza-Internship-358-main (1)\Algoriza-Internship-358-main\Vezeeta\Vezeeta\bin\Debug\net6.0\ServiceLayer.pdb
+E:\Algoriza-Internship-358-main (1)\Algoriza-Internship-358-main\Vezeeta\Vezeeta\bin\Debug\net6.0\DomainLayer.pdb
+E:\Algoriza-Internship-358-main (1)\Algoriza-Internship-358-main\Vezeeta\Vezeeta\obj\Debug\net6.0\Vezeeta.csproj.AssemblyReference.cache
+E:\Algoriza-Internship-358-main (1)\Algoriza-Internship-358-main\Vezeeta\Vezeeta\obj\Debug\net6.0\Vezeeta.GeneratedMSBuildEditorConfig.editorconfig
+E:\Algoriza-Internship-358-main (1)\Algoriza-Internship-358-main\Vezeeta\Vezeeta\obj\Debug\net6.0\Vezeeta.AssemblyInfoInputs.cache
+E:\Algoriza-Internship-358-main (1)\Algoriza-Internship-358-main\Vezeeta\Vezeeta\obj\Debug\net6.0\Vezeeta.AssemblyInfo.cs
+E:\Algoriza-Internship-358-main (1)\Algoriza-Internship-358-main\Vezeeta\Vezeeta\obj\Debug\net6.0\Vezeeta.csproj.CoreCompileInputs.cache
+E:\Algoriza-Internship-358-main (1)\Algoriza-Internship-358-main\Vezeeta\Vezeeta\obj\Debug\net6.0\Vezeeta.MvcApplicationPartsAssemblyInfo.cs
+E:\Algoriza-Internship-358-main (1)\Algoriza-Internship-358-main\Vezeeta\Vezeeta\obj\Debug\net6.0\Vezeeta.MvcApplicationPartsAssemblyInfo.cache
+E:\Algoriza-Internship-358-main (1)\Algoriza-Internship-358-main\Vezeeta\Vezeeta\obj\Debug\net6.0\staticwebassets\msbuild.Vezeeta.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Algoriza-Internship-358-main (1)\Algoriza-Internship-358-main\Vezeeta\Vezeeta\obj\Debug\net6.0\staticwebassets\msbuild.build.Vezeeta.props
+E:\Algoriza-Internship-358-main (1)\Algoriza-Internship-358-main\Vezeeta\Vezeeta\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Vezeeta.props
+E:\Algoriza-Internship-358-main (1)\Algoriza-Internship-358-main\Vezeeta\Vezeeta\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Vezeeta.props
+E:\Algoriza-Internship-358-main (1)\Algoriza-Internship-358-main\Vezeeta\Vezeeta\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Algoriza-Internship-358-main (1)\Algoriza-Internship-358-main\Vezeeta\Vezeeta\obj\Debug\net6.0\staticwebassets.build.json
+E:\Algoriza-Internship-358-main (1)\Algoriza-Internship-358-main\Vezeeta\Vezeeta\obj\Debug\net6.0\staticwebassets.development.json
+E:\Algoriza-Internship-358-main (1)\Algoriza-Internship-358-main\Vezeeta\Vezeeta\obj\Debug\net6.0\scopedcss\bundle\Vezeeta.styles.css
+E:\Algoriza-Internship-358-main (1)\Algoriza-Internship-358-main\Vezeeta\Vezeeta\obj\Debug\net6.0\Vezeeta.csproj.CopyComplete
+E:\Algoriza-Internship-358-main (1)\Algoriza-Internship-358-main\Vezeeta\Vezeeta\obj\Debug\net6.0\Vezeeta.dll
+E:\Algoriza-Internship-358-main (1)\Algoriza-Internship-358-main\Vezeeta\Vezeeta\obj\Debug\net6.0\refint\Vezeeta.dll
+E:\Algoriza-Internship-358-main (1)\Algoriza-Internship-358-main\Vezeeta\Vezeeta\obj\Debug\net6.0\Vezeeta.pdb
+E:\Algoriza-Internship-358-main (1)\Algoriza-Internship-358-main\Vezeeta\Vezeeta\obj\Debug\net6.0\Vezeeta.genruntimeconfig.cache
+E:\Algoriza-Internship-358-main (1)\Algoriza-Internship-358-main\Vezeeta\Vezeeta\obj\Debug\net6.0\ref\Vezeeta.dll
+E:\Algoriza\Vezeeta\Vezeeta\bin\Debug\net6.0\appsettings.Development.json
+E:\Algoriza\Vezeeta\Vezeeta\bin\Debug\net6.0\appsettings.json
+E:\Algoriza\Vezeeta\Vezeeta\bin\Debug\net6.0\Vezeeta.exe
+E:\Algoriza\Vezeeta\Vezeeta\bin\Debug\net6.0\Vezeeta.deps.json
+E:\Algoriza\Vezeeta\Vezeeta\bin\Debug\net6.0\Vezeeta.runtimeconfig.json
+E:\Algoriza\Vezeeta\Vezeeta\bin\Debug\net6.0\Vezeeta.dll
+E:\Algoriza\Vezeeta\Vezeeta\bin\Debug\net6.0\Vezeeta.pdb
+E:\Algoriza\Vezeeta\Vezeeta\bin\Debug\net6.0\Humanizer.dll
+E:\Algoriza\Vezeeta\Vezeeta\bin\Debug\net6.0\Microsoft.AspNet.Identity.Core.dll
+E:\Algoriza\Vezeeta\Vezeeta\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Algoriza\Vezeeta\Vezeeta\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Algoriza\Vezeeta\Vezeeta\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Algoriza\Vezeeta\Vezeeta\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Algoriza\Vezeeta\Vezeeta\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Algoriza\Vezeeta\Vezeeta\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Algoriza\Vezeeta\Vezeeta\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Algoriza\Vezeeta\Vezeeta\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Algoriza\Vezeeta\Vezeeta\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Algoriza\Vezeeta\Vezeeta\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Algoriza\Vezeeta\Vezeeta\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Algoriza\Vezeeta\Vezeeta\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+E:\Algoriza\Vezeeta\Vezeeta\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Algoriza\Vezeeta\Vezeeta\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Algoriza\Vezeeta\Vezeeta\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Algoriza\Vezeeta\Vezeeta\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Algoriza\Vezeeta\Vezeeta\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Algoriza\Vezeeta\Vezeeta\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Algoriza\Vezeeta\Vezeeta\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Algoriza\Vezeeta\Vezeeta\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Algoriza\Vezeeta\Vezeeta\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Algoriza\Vezeeta\Vezeeta\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Algoriza\Vezeeta\Vezeeta\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Algoriza\Vezeeta\Vezeeta\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Algoriza\Vezeeta\Vezeeta\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Algoriza\Vezeeta\Vezeeta\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\Algoriza\Vezeeta\Vezeeta\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Algoriza\Vezeeta\Vezeeta\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Algoriza\Vezeeta\Vezeeta\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Algoriza\Vezeeta\Vezeeta\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Algoriza\Vezeeta\Vezeeta\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Algoriza\Vezeeta\Vezeeta\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Algoriza\Vezeeta\Vezeeta\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Algoriza\Vezeeta\Vezeeta\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Algoriza\Vezeeta\Vezeeta\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Algoriza\Vezeeta\Vezeeta\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Algoriza\Vezeeta\Vezeeta\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Algoriza\Vezeeta\Vezeeta\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Algoriza\Vezeeta\Vezeeta\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Algoriza\Vezeeta\Vezeeta\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Algoriza\Vezeeta\Vezeeta\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Algoriza\Vezeeta\Vezeeta\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Algoriza\Vezeeta\Vezeeta\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Algoriza\Vezeeta\Vezeeta\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Algoriza\Vezeeta\Vezeeta\bin\Debug\net6.0\DomainLayer.dll
+E:\Algoriza\Vezeeta\Vezeeta\bin\Debug\net6.0\RepositoryLayer.dll
+E:\Algoriza\Vezeeta\Vezeeta\bin\Debug\net6.0\ServiceLayer.dll
+E:\Algoriza\Vezeeta\Vezeeta\bin\Debug\net6.0\RepositoryLayer.pdb
+E:\Algoriza\Vezeeta\Vezeeta\bin\Debug\net6.0\ServiceLayer.pdb
+E:\Algoriza\Vezeeta\Vezeeta\bin\Debug\net6.0\DomainLayer.pdb
+E:\Algoriza\Vezeeta\Vezeeta\obj\Debug\net6.0\Vezeeta.csproj.AssemblyReference.cache
+E:\Algoriza\Vezeeta\Vezeeta\obj\Debug\net6.0\Vezeeta.GeneratedMSBuildEditorConfig.editorconfig
+E:\Algoriza\Vezeeta\Vezeeta\obj\Debug\net6.0\Vezeeta.AssemblyInfoInputs.cache
+E:\Algoriza\Vezeeta\Vezeeta\obj\Debug\net6.0\Vezeeta.AssemblyInfo.cs
+E:\Algoriza\Vezeeta\Vezeeta\obj\Debug\net6.0\Vezeeta.csproj.CoreCompileInputs.cache
+E:\Algoriza\Vezeeta\Vezeeta\obj\Debug\net6.0\Vezeeta.MvcApplicationPartsAssemblyInfo.cs
+E:\Algoriza\Vezeeta\Vezeeta\obj\Debug\net6.0\Vezeeta.MvcApplicationPartsAssemblyInfo.cache
+E:\Algoriza\Vezeeta\Vezeeta\obj\Debug\net6.0\staticwebassets\msbuild.Vezeeta.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Algoriza\Vezeeta\Vezeeta\obj\Debug\net6.0\staticwebassets\msbuild.build.Vezeeta.props
+E:\Algoriza\Vezeeta\Vezeeta\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Vezeeta.props
+E:\Algoriza\Vezeeta\Vezeeta\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Vezeeta.props
+E:\Algoriza\Vezeeta\Vezeeta\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Algoriza\Vezeeta\Vezeeta\obj\Debug\net6.0\staticwebassets.build.json
+E:\Algoriza\Vezeeta\Vezeeta\obj\Debug\net6.0\staticwebassets.development.json
+E:\Algoriza\Vezeeta\Vezeeta\obj\Debug\net6.0\scopedcss\bundle\Vezeeta.styles.css
+E:\Algoriza\Vezeeta\Vezeeta\obj\Debug\net6.0\Vezeeta.csproj.CopyComplete
+E:\Algoriza\Vezeeta\Vezeeta\obj\Debug\net6.0\Vezeeta.dll
+E:\Algoriza\Vezeeta\Vezeeta\obj\Debug\net6.0\refint\Vezeeta.dll
+E:\Algoriza\Vezeeta\Vezeeta\obj\Debug\net6.0\Vezeeta.pdb
+E:\Algoriza\Vezeeta\Vezeeta\obj\Debug\net6.0\Vezeeta.genruntimeconfig.cache
+E:\Algoriza\Vezeeta\Vezeeta\obj\Debug\net6.0\ref\Vezeeta.dll
